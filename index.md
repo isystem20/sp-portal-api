@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# SP Portal API Client Reference
 
 You can use the [editor on GitHub](https://github.com/isystem20/sp-portal-api/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
